@@ -1,9 +1,9 @@
 # sheets.email
-![thumbnail](https://github.com/user-attachments/assets/3593fa54-2a1e-419e-81dc-b0aaf7186f5d)
-
 
 ## Send personalized emails with AI at scale  
 Make your email communication personalized by using data from your Google Sheets with Gmail.  
+
+![thumbnail](https://github.com/user-attachments/assets/3593fa54-2a1e-419e-81dc-b0aaf7186f5d)
 
 ---
 

@@ -1,4 +1,4 @@
-# sheets.email
+# Sheetsy
 
 ## Send personalized emails with AI at scale  
 Make your email communication personalized by using data from your Google Sheets with Gmail.  
@@ -21,65 +21,55 @@ Start for free
 - ✅ Email templates (create custom email templates)  
 - ✅ Analytics and reports (track email performance)  
 - ❌ Remove watermarks  
-- ❌ AI personalization  
-- **0 AI emails per month** (no AI personalized emails, unlimited regular emails)  
+- ✅ AI personalization  
+- ✅ 50 AI emails per month** (no AI personalized emails, unlimited regular emails)  
 
 ---
 
 ### Growth  
 **$9/month**  
-[Start Now](https://sheets.email/)  
+[Start Now](https://sheetsy.co/)  
 - ✅ Unlimited emails included (limited by Gmail quota)  
 - ✅ Unlimited email scheduling (send emails at scheduled times)  
 - ✅ Email templates (create custom email templates)  
 - ✅ Analytics and reports (track email performance)  
 - ✅ Remove watermarks  
 - ❌ AI personalization  
-- **0 AI emails per month** (no AI personalized emails, unlimited regular emails)  
+- ✅ 300 AI emails per month** (no AI personalized emails, unlimited regular emails)  
 
 ---
 
 ### **Professional**  
 **$19/month**  
-[Start Now](https://sheets.email/)  
+[Start Now](https://sheetsy.co/)  
 - ✅ Unlimited emails included (limited by Gmail quota)  
 - ✅ Unlimited email scheduling (send emails at scheduled times)  
 - ✅ Email templates (create custom email templates)  
 - ✅ Analytics and reports (track email performance)  
 - ✅ Remove watermarks  
 - ✅ AI personalization  
-- **2,000 AI emails per month** (send up to 2,000 AI personalized emails per month, unlimited regular emails)  
+- ✅ 2,000 AI emails per month** (send up to 2,000 AI personalized emails per month, unlimited regular emails)  
 
 ---
 
 ### Business  
 **$49/month**  
-[Start Now](https://sheets.email/)  
+[Start Now](https://sheetsy.co/)  
 - ✅ Unlimited emails included (limited by Gmail quota)  
 - ✅ Unlimited email scheduling (send emails at scheduled times)  
 - ✅ Email templates (create custom email templates)  
 - ✅ Analytics and reports (track email performance)  
 - ✅ Remove watermarks  
 - ✅ AI personalization  
-- **10,000 AI emails per month** (send up to 10,000 AI personalized emails per month, unlimited regular emails)  
+- ✅ 10,000 AI emails per month** (send up to 10,000 AI personalized emails per month, unlimited regular emails)  
 
----
-
-## FAQ  
-### Questions? We have answers  
-Everything you need to know about sheets.email  
-
-- **What is sheets.email?**  
-- **How does AI help with email personalization?**  
-- **How does sheets.email work with Gmail's sending limits?**  
-- **What happens if I reach the sending limit?**  
 ---
 
 ## Supercharge your email outreach today!  
 Transform your Google Sheets into a powerful email automation tool.  
 
-[Try now for free](https://sheets.email/)  
+[Try now for free](https://sheetsy.co/)  
 **Start for free • Send personalized emails in minutes**  
 
 
-© 2024 sheets.email. All rights reserved.  
+© 2024 Sheetsy. All rights reserved.  

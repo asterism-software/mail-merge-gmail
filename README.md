@@ -3,7 +3,8 @@
 ## Send personalized emails with AI at scale  
 Make your email communication personalized by using data from your Google Sheets with Gmail.  
 
-![thumbnail](https://github.com/user-attachments/assets/3593fa54-2a1e-419e-81dc-b0aaf7186f5d)
+![thumbnail](https://github.com/user-attachments/assets/2403285e-30f7-4a8b-8f18-638c3f824a06)
+
 
 ---
 
@@ -34,7 +35,7 @@ Start for free
 - ✅ Email templates (create custom email templates)  
 - ✅ Analytics and reports (track email performance)  
 - ✅ Remove watermarks  
-- ❌ AI personalization  
+- ✅  AI personalization  
 - ✅ 300 AI emails per month** (no AI personalized emails, unlimited regular emails)  
 
 ---

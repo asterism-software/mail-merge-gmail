@@ -1,4 +1,4 @@
-# Sheetsy
+# Sheetsy - Mail Merge for Gmail
 
 ## Send personalized emails with AI at scale  
 Make your email communication personalized by using data from your Google Sheets with Gmail.  
